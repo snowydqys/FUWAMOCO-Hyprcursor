@@ -1,0 +1,30 @@
+resize_algorithm = bilinear
+
+hotspot_x = 0.0 # this goes 0 - 1
+hotspot_y = 0.0 # this goes 0 - 1
+
+define_override = progress
+
+define_size = 24, 24/MOCOCO_Background_000.png, 666
+define_size = 24, 24/MOCOCO_Background_001.png, 833
+define_size = 24, 24/MOCOCO_Background_002.png, 833
+define_size = 24, 24/MOCOCO_Background_003.png, 833
+define_size = 24, 24/MOCOCO_Background_004.png, 166
+
+define_size = 32, 32/MOCOCO_Background_000.png, 666
+define_size = 32, 32/MOCOCO_Background_001.png, 833
+define_size = 32, 32/MOCOCO_Background_002.png, 833
+define_size = 32, 32/MOCOCO_Background_003.png, 833
+define_size = 32, 32/MOCOCO_Background_004.png, 166
+
+define_size = 48, 48/MOCOCO_Background_000.png, 666
+define_size = 48, 48/MOCOCO_Background_001.png, 833
+define_size = 48, 48/MOCOCO_Background_002.png, 833
+define_size = 48, 48/MOCOCO_Background_003.png, 833
+define_size = 48, 48/MOCOCO_Background_004.png, 166
+
+define_size = 64, 64/MOCOCO_Background_000.png, 666
+define_size = 64, 64/MOCOCO_Background_001.png, 833
+define_size = 64, 64/MOCOCO_Background_002.png, 833
+define_size = 64, 64/MOCOCO_Background_003.png, 833
+define_size = 64, 64/MOCOCO_Background_004.png, 166

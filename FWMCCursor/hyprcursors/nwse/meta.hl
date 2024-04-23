@@ -1,0 +1,51 @@
+resize_algorithm = bilinear
+
+hotspot_x = 0.0 # this goes 0 - 1
+hotspot_y = 0.0 # this goes 0 - 1
+
+define_override = nw-resize
+define_override = se-resize
+
+define_size = 24, 24/FUWAWA_NwSe_000.png, 666
+define_size = 24, 24/FUWAWA_NwSe_001.png, 833
+define_size = 24, 24/FUWAWA_NwSe_002.png, 833
+define_size = 24, 24/FUWAWA_NwSe_003.png, 833
+define_size = 24, 24/FUWAWA_NwSe_004.png, 166
+define_size = 24, 24/MOCOCO_NwSe_000.png, 666
+define_size = 24, 24/MOCOCO_NwSe_001.png, 833
+define_size = 24, 24/MOCOCO_NwSe_002.png, 833
+define_size = 24, 24/MOCOCO_NwSe_003.png, 833
+define_size = 24, 24/MOCOCO_NwSe_004.png, 166
+
+define_size = 32, 32/FUWAWA_NwSe_000.png, 666
+define_size = 32, 32/FUWAWA_NwSe_001.png, 833
+define_size = 32, 32/FUWAWA_NwSe_002.png, 833
+define_size = 32, 32/FUWAWA_NwSe_003.png, 833
+define_size = 32, 32/FUWAWA_NwSe_004.png, 166
+define_size = 32, 32/MOCOCO_NwSe_000.png, 666
+define_size = 32, 32/MOCOCO_NwSe_001.png, 833
+define_size = 32, 32/MOCOCO_NwSe_002.png, 833
+define_size = 32, 32/MOCOCO_NwSe_003.png, 833
+define_size = 32, 32/MOCOCO_NwSe_004.png, 166
+
+define_size = 48, 48/FUWAWA_NwSe_000.png, 666
+define_size = 48, 48/FUWAWA_NwSe_001.png, 833
+define_size = 48, 48/FUWAWA_NwSe_002.png, 833
+define_size = 48, 48/FUWAWA_NwSe_003.png, 833
+define_size = 48, 48/FUWAWA_NwSe_004.png, 166
+define_size = 48, 48/MOCOCO_NwSe_000.png, 666
+define_size = 48, 48/MOCOCO_NwSe_001.png, 833
+define_size = 48, 48/MOCOCO_NwSe_002.png, 833
+define_size = 48, 48/MOCOCO_NwSe_003.png, 833
+define_size = 48, 48/MOCOCO_NwSe_004.png, 166
+
+define_size = 64, 64/FUWAWA_NwSe_000.png, 666
+define_size = 64, 64/FUWAWA_NwSe_001.png, 833
+define_size = 64, 64/FUWAWA_NwSe_002.png, 833
+define_size = 64, 64/FUWAWA_NwSe_003.png, 833
+define_size = 64, 64/FUWAWA_NwSe_004.png, 166
+define_size = 64, 64/MOCOCO_NwSe_000.png, 666
+define_size = 64, 64/MOCOCO_NwSe_001.png, 833
+define_size = 64, 64/MOCOCO_NwSe_002.png, 833
+define_size = 64, 64/MOCOCO_NwSe_003.png, 833
+define_size = 64, 64/MOCOCO_NwSe_004.png, 166

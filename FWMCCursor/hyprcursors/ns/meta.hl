@@ -1,0 +1,52 @@
+resize_algorithm = bilinear
+
+hotspot_x = 0.0 # this goes 0 - 1
+hotspot_y = 0.0 # this goes 0 - 1
+
+define_override = n-resize
+define_override = s-resize
+define_override = row-resize 
+
+define_size = 24, 24/FUWAWA_NS_000.png, 666
+define_size = 24, 24/FUWAWA_NS_001.png, 833
+define_size = 24, 24/FUWAWA_NS_002.png, 833
+define_size = 24, 24/FUWAWA_NS_003.png, 833
+define_size = 24, 24/FUWAWA_NS_004.png, 166
+define_size = 24, 24/MOCOCO_NS_000.png, 666
+define_size = 24, 24/MOCOCO_NS_001.png, 833
+define_size = 24, 24/MOCOCO_NS_002.png, 833
+define_size = 24, 24/MOCOCO_NS_003.png, 833
+define_size = 24, 24/MOCOCO_NS_004.png, 166
+
+define_size = 32, 32/FUWAWA_NS_000.png, 666
+define_size = 32, 32/FUWAWA_NS_001.png, 833
+define_size = 32, 32/FUWAWA_NS_002.png, 833
+define_size = 32, 32/FUWAWA_NS_003.png, 833
+define_size = 32, 32/FUWAWA_NS_004.png, 166
+define_size = 32, 32/MOCOCO_NS_000.png, 666
+define_size = 32, 32/MOCOCO_NS_001.png, 833
+define_size = 32, 32/MOCOCO_NS_002.png, 833
+define_size = 32, 32/MOCOCO_NS_003.png, 833
+define_size = 32, 32/MOCOCO_NS_004.png, 166
+
+define_size = 48, 48/FUWAWA_NS_000.png, 666
+define_size = 48, 48/FUWAWA_NS_001.png, 833
+define_size = 48, 48/FUWAWA_NS_002.png, 833
+define_size = 48, 48/FUWAWA_NS_003.png, 833
+define_size = 48, 48/FUWAWA_NS_004.png, 166
+define_size = 48, 48/MOCOCO_NS_000.png, 666
+define_size = 48, 48/MOCOCO_NS_001.png, 833
+define_size = 48, 48/MOCOCO_NS_002.png, 833
+define_size = 48, 48/MOCOCO_NS_003.png, 833
+define_size = 48, 48/MOCOCO_NS_004.png, 166
+
+define_size = 64, 64/FUWAWA_NS_000.png, 666
+define_size = 64, 64/FUWAWA_NS_001.png, 833
+define_size = 64, 64/FUWAWA_NS_002.png, 833
+define_size = 64, 64/FUWAWA_NS_003.png, 833
+define_size = 64, 64/FUWAWA_NS_004.png, 166
+define_size = 64, 64/MOCOCO_NS_000.png, 666
+define_size = 64, 64/MOCOCO_NS_001.png, 833
+define_size = 64, 64/MOCOCO_NS_002.png, 833
+define_size = 64, 64/MOCOCO_NS_003.png, 833
+define_size = 64, 64/MOCOCO_NS_004.png, 166

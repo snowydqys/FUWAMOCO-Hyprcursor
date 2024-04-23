@@ -1,0 +1,30 @@
+resize_algorithm = bilinear
+
+hotspot_x = 0.0 # this goes 0 - 1
+hotspot_y = 0.0 # this goes 0 - 1
+
+define_override = pointer
+
+define_size = 24, 24/FUWAWA_Link_000.png, 666
+define_size = 24, 24/FUWAWA_Link_001.png, 833
+define_size = 24, 24/FUWAWA_Link_002.png, 833
+define_size = 24, 24/FUWAWA_Link_003.png, 833
+define_size = 24, 24/FUWAWA_Link_004.png, 166
+
+define_size = 32, 32/FUWAWA_Link_000.png, 666
+define_size = 32, 32/FUWAWA_Link_001.png, 833
+define_size = 32, 32/FUWAWA_Link_002.png, 833
+define_size = 32, 32/FUWAWA_Link_003.png, 833
+define_size = 32, 32/FUWAWA_Link_004.png, 166
+
+define_size = 48, 48/FUWAWA_Link_000.png, 666
+define_size = 48, 48/FUWAWA_Link_001.png, 833
+define_size = 48, 48/FUWAWA_Link_002.png, 833
+define_size = 48, 48/FUWAWA_Link_003.png, 833
+define_size = 48, 48/FUWAWA_Link_004.png, 166
+
+define_size = 64, 64/FUWAWA_Link_000.png, 666
+define_size = 64, 64/FUWAWA_Link_001.png, 833
+define_size = 64, 64/FUWAWA_Link_002.png, 833
+define_size = 64, 64/FUWAWA_Link_003.png, 833
+define_size = 64, 64/FUWAWA_Link_004.png, 166

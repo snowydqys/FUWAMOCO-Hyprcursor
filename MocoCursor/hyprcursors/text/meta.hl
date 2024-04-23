@@ -1,0 +1,34 @@
+resize_algorithm = bilinear
+
+hotspot_x = 0.0 # this goes 0 - 1
+hotspot_y = 0.0 # this goes 0 - 1
+
+define_override = text
+
+define_size = 24, 24/MOCOCO_Text_000.png, 500
+define_size = 24, 24/MOCOCO_Text_001.png, 833
+define_size = 24, 24/MOCOCO_Text_002.png, 166
+define_size = 24, 24/MOCOCO_Text_003.png, 666
+define_size = 24, 24/MOCOCO_Text_004.png, 833
+define_size = 24, 24/MOCOCO_Text_005.png, 166
+
+define_size = 32, 32/MOCOCO_Text_000.png, 500
+define_size = 32, 32/MOCOCO_Text_001.png, 833
+define_size = 32, 32/MOCOCO_Text_002.png, 166
+define_size = 32, 32/MOCOCO_Text_003.png, 666
+define_size = 32, 32/MOCOCO_Text_004.png, 833
+define_size = 32, 32/MOCOCO_Text_005.png, 166
+
+define_size = 48, 48/MOCOCO_Text_000.png, 500
+define_size = 48, 48/MOCOCO_Text_001.png, 833
+define_size = 48, 48/MOCOCO_Text_002.png, 166
+define_size = 48, 48/MOCOCO_Text_003.png, 666
+define_size = 48, 48/MOCOCO_Text_004.png, 833
+define_size = 48, 48/MOCOCO_Text_005.png, 166
+
+define_size = 64, 64/MOCOCO_Text_000.png, 500
+define_size = 64, 64/MOCOCO_Text_001.png, 833
+define_size = 64, 64/MOCOCO_Text_002.png, 166
+define_size = 64, 64/MOCOCO_Text_003.png, 666
+define_size = 64, 64/MOCOCO_Text_004.png, 833
+define_size = 64, 64/MOCOCO_Text_005.png, 166
